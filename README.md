@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil do Bruno Porto 😁
 
-
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=BrunooPorto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooPorto&layout=compact&langs_count=6&theme=merko"/>
  <br>
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
