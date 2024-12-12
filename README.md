@@ -8,9 +8,7 @@
 
 **Redes Sociais:**
 
-<div style="display: flex; justify-content: space-around; align-items: center;"> <a href="https://www.instagram.com/brunodaself/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank" rel="noopener noreferrer">
-  </a>
+<div style="display: flex; justify-content: space-around; align-items: center;">
   <a href="mailto:brunopf001@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-they&logo=gmail&logoColor=white" alt="Gmail" target="_blank" rel="noopener noreferrer">
   </a>
