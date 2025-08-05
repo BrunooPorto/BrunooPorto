@@ -1,5 +1,3 @@
-[README_Perfil_GitHub.md](https://github.com/user-attachments/files/21602841/README_Perfil_GitHub.md)
-
 <h1 align="center">👋 Olá, eu sou o Bruno Porto</h1>
 
 <p align="center">
