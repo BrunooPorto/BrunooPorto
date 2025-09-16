@@ -36,6 +36,8 @@
 </div>
 
 ---
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="50%">
+
 
 ### 📫 Como me encontrar
 <p>
