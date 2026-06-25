@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Bruno Porto</h1>
 
 <p align="center">
-  💼 Analista de Dados | 📊 Power BI | 🐍 Python Developer <br>
+  💼 Engenheiro de Dados | 📊 Power BI | 🐍 Python Developer <br>
   🎯 Apaixonado por transformar dados em decisões
 </p>
 
